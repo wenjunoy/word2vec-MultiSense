@@ -53,8 +53,8 @@ apple_4 0
 ```
 从每个含义出现的次数可以看出，单词apple主要有两种含义（吃的水果和苹果手机）。我们从向量的最近邻也可以来验证：
 
-apple_3的最近邻单词：
+apple_0的最近邻单词：
 ![](http://7xlx99.com1.z0.glb.clouddn.com/git/20171024221246.png)
 
-apple_4的最近邻单词：
+apple_1的最近邻单词：
 ![](http://7xlx99.com1.z0.glb.clouddn.com/git/20171024221313.png)
