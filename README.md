@@ -45,16 +45,16 @@ apple_4
 ```
 #### 单词的每个含义在语料库中出现的次数 ***.vec.sense.num
 ```
-apple_0 4
-apple_1 2
-apple_2 5
-apple_3 221338
-apple_4 246205
+apple_0 243401
+apple_1 222968
+apple_2 1
+apple_3 0
+apple_4 0
 ```
 从每个含义出现的次数可以看出，单词apple主要有两种含义（吃的水果和苹果手机）。我们从向量的最近邻也可以来验证：
 
 apple_3的最近邻单词：
-![](http://7xlx99.com1.z0.glb.clouddn.com/git/20171023105121.png)
+![](http://7xlx99.com1.z0.glb.clouddn.com/git/20171024221246.png)
 
 apple_4的最近邻单词：
-![](http://7xlx99.com1.z0.glb.clouddn.com/git/20171023105215.png)
+![](http://7xlx99.com1.z0.glb.clouddn.com/git/20171024221313.png)
