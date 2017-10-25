@@ -58,3 +58,5 @@ apple_0的最近邻单词：
 
 apple_1的最近邻单词：
 ![](http://7xlx99.com1.z0.glb.clouddn.com/git/20171024221313.png)
+
+通过wiki(en)训练好的词向量文件下载地址：[百度云盘-MultiSense](https://pan.baidu.com/s/1i5L5hXz)。
